@@ -1,0 +1,135 @@
+[
+  {
+    "roomId": 1,
+    "inventory": [
+      {
+        "id": 392,
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "quantity": 2
+      },
+      {
+        "id": 79,
+        "quantity": 1
+      },
+      {
+        "id": 417,
+        "quantity": 1
+      },
+      {
+        "id": 465,
+        "quantity": 1
+      },
+      {
+        "id": 462,
+        "quantity": 1
+      },
+      {
+        "id": 370,
+        "quantity": 1
+      },
+      {
+        "id": 343,
+        "quantity": 3
+      },
+      {
+        "id": 302,
+        "quantity": 1
+      },
+      {
+        "id": 303,
+        "quantity": 2
+      },
+      {
+        "id": 97,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "roomId": 5,
+    "inventory": [
+      {
+        "id": 422,
+        "quantity": 1
+      },
+      {
+        "id": 154,
+        "quantity": 4
+      },
+      {
+        "id": 115,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "roomId": 2,
+    "inventory": [
+      {
+        "id": 427,
+        "quantity": 1
+      },
+      {
+        "id": 161,
+        "quantity": 4
+      },
+      {
+        "id": 90,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "roomId": 3,
+    "inventory": [
+      {
+        "id": 58,
+        "quantity": 1
+      },
+      {
+        "id": 289,
+        "quantity": 1
+      },
+      {
+        "id": 235,
+        "quantity": 1
+      },
+      {
+        "id": 326,
+        "quantity": 2
+      },
+      {
+        "id": 303,
+        "quantity": 2
+      },
+      {
+        "id": 343,
+        "quantity": 2
+      },
+      {
+        "id": 101,
+        "quantity": 2
+      },
+      {
+        "id": 97,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "roomId": 19,
+    "inventory": [
+      {
+        "id": 468,
+        "quantity": 1
+      },
+      {
+        "id": 293,
+        "quantity": 1
+      }
+    ]
+  }
+]

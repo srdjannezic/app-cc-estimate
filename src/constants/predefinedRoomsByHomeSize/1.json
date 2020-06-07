@@ -1,0 +1,92 @@
+[
+  {
+    "roomId": 1,
+    "inventory": [
+      {
+        "id": 392,
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "quantity": 1
+      },
+      {
+        "id": 79,
+        "quantity": 1
+      },
+      {
+        "id": 417,
+        "quantity": 1
+      },
+      {
+        "id": 465,
+        "quantity": 1
+      },
+      {
+        "id": 462,
+        "quantity": 1
+      },
+      {
+        "id": 370,
+        "quantity": 1
+      },
+      {
+        "id": 343,
+        "quantity": 5
+      },
+      {
+        "id": 302,
+        "quantity": 1
+      },
+      {
+        "id": 422,
+        "quantity": 1
+      },
+      {
+        "id": 154,
+        "quantity": 4
+      },
+      {
+        "id": 58,
+        "quantity": 1
+      },
+      {
+        "id": 289,
+        "quantity": 1
+      },
+      {
+        "id": 237,
+        "quantity": 1
+      },
+      {
+        "id": 326,
+        "quantity": 2
+      },
+      {
+        "id": 303,
+        "quantity": 2
+      },
+      {
+        "id": 101,
+        "quantity": 2
+      },
+      {
+        "id": 97,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "roomId": 19,
+    "inventory": [
+      {
+        "id": 468,
+        "quantity": 1
+      },
+      {
+        "id": 293,
+        "quantity": 1
+      }
+    ]
+  }
+]
